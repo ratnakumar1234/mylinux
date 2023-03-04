@@ -1,0 +1,61 @@
+Experience in Installing, upgrading, and configuring Red Hat Linux 6x & 7x, SLES servers 12x & 15x.
+
+Experience in Kernel patching on Linux systems.
+
+Knowledge on configuring the Disk mirroring, striping through the RAID.
+
+Knowledge of NIC Bonding.
+
+Remote system administration using tools like SSH, Telnet.
+
+Network File system Administration for Servers and Clients, Importing Exporting File systems, Troubleshooting NFS.
+
+Creating and Managing File Systems, Building & Maintaining Storage Volumes using Logical Volume Manager (LVM), and Extending, Reducing, and Creating LVM snapshots.
+
+Creating users and groups, managing user accounts.
+
+Install the packages with YUM & RPM and zypper.
+
+Setting up ACLs for the folders on RHEL 6.x/7.x servers as per the request.
+
+Monitor the servers for proactive and reactive management. Monitoring system performance using top, iostat, vmstat, netstat, etc, and troubleshooting the daily CPU and Disk related issues.
+
+Knowledge of Linux Based Networking, Web server, Ftp server, DNS server, Samba Server, DHCP server, NFS server.
+
+Automating jobs using croon and a job.
+
+Building the Local & centralized Repositories for installing required Packages in the Remote server.
+
+Securing and managing network with firewall & IP-tables, creating rules to filter traffic.
+
+Perform file system management tasks
+
+Perform user and Filesystem management
+
+Performing monthly patching including security patches
+
+Assist user on an on-call basis
+
+Identify and drive continual improvement program in UNIX environment and improve the service efficiency
+
+Assist application development teams with software that is to be deployed on a UNIX server.
+
+Worked on setting up SSH SCP, SFTP connectivity between UNIX hosts
+
+Installing and upgrading UNIX system software on company servers and computers.
+
+Creating UNIX file systems.
+
+Setting up and maintaining UNIX user accounts and access management systems.
+
+Implementing network and computer system policies.
+
+Detecting and troubleshooting software and hardware issues.
+
+Responding to user requests and software errors.
+
+Monitoring the performance of the system and server.
+
+Creating backup and recovery policies.
+
+Setting up and monitoring security policies. 
